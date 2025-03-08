@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaz513" alt="imtiaz513" /></a> </p>
 
+- 🔭 I’m currently working on **Predictive Analytics and Statistical Insights using R, SPSS, Stata, and Minitab.**
+
+- 🌱 I’m currently learning **Cloud Data Platforms: AWS, Snowflake, BigQuery Advanced Statistical Methods: R, Python**
+
+- 👯 I’m looking to collaborate on **Data Analysis & Visualization — Using Stata, SPSS, R, and Minitab for insights.**
+
+- 🤝 I’m looking for help with **Advanced Statistical Modeling — Uncovering data-driven solutions through complex techniques.**
+
+- 💬 Ask me about **Statistical Analysis: Stata, SPSS, R, Minitab Data Cleaning, Wrangling & Visualization Predictive Modeling & Hypothesis Testing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imtiazhussain12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiazhussain12" height="30" width="40" /></a>
