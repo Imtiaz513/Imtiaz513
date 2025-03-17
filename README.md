@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Imtiaz Hussain</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h1 align="center">Hello World! 🌍 I'm Imtiaz Hussain 👋🏼 </h1>
+<h3 align="center">A passionate Data Analyst based in Pakistan, with a love for transforming data into actionable insights. Let's explore the power of data together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" /> </p>
 
