@@ -43,12 +43,19 @@ I enjoy playing chess, solving analytical problems,data-driven insights and busi
 ## 🅼🆈 🅴🆇🅿🅴🆁🆃🅸🆂🅴
 
 ✔️ 📊 Data Analytics & BI: 5+ years of experience in data-driven insights.
+
 ✔️ 🛠 Programming: SQL, Python, R for analysis & automation.
+
 ✔️ 📈 Visualization: Power BI, Tableau, Looker.
+
 ✔️ 💾 Databases: BigQuery, Snowflake, Firebase.
+
 ✔️ 🔗 ETL & Data Engineering: Pipelines, API integrations, automation.
+
 ✔️ 📉 Predictive Analytics: Forecasting, regression, hypothesis testing.
+
 ✔️ 🛠 Tools: Git, cloud platforms, automation frameworks.
+
 ✔️ 🌎 Communication: Fluent in English, project management experience.
 
 <h3 align="left">Connect with me:</h3>
