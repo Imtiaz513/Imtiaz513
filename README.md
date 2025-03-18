@@ -6,15 +6,15 @@
 
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 <p style = "text-align: center;"><strong>
-  I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions.
+✔ I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions.
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
-My interest lies in SQL, Python, Power BI, R, SPSS, and Statistics, specializing in data analysis and visualization.
+✔ My interest lies in SQL, Python, Power BI, R, SPSS, and Statistics, specializing in data analysis and visualization.
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
-I enjoy playing chess, solving analytical problems,data-driven insights and business analytics.
+✔ I enjoy playing chess, solving analytical problems,data-driven insights and business analytics.
 </strong>
 </p>
 
