@@ -67,7 +67,10 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
 - **Email:** `ihsofh@gmail.com`
 
-  ###
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=imtiaz513&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
