@@ -65,7 +65,6 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
-- **Website:** [ⒷⓐⓡⓓⓊⓘ ⃝Ⓒⓞⓜ](https://www.bardui.com/)
 - **Email:** `ihsofh@gmail.com`
 
 <h3 align="left">Connect with me:</h3>
