@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=black&style=flat" alt="imtiaz513" /> 
+ </p>
 
 ## 🅷🅸 🅰🆆🅴🆂🅾🅼🅴 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃🆂 👋
 
