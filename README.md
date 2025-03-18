@@ -33,14 +33,14 @@
   
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
   
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=Red)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi&logoColor=red)  
+![Tableau](https://img.shields.io/badge/Tableau-black?style=for-the-badge&logo=tableau&logoColor=red)  
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=red)  
+![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=r&logoColor=red)  
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sqlite&logoColor=red)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=red)  
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=red)  
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)  
 
 ---
 ## 🅼🆈 🅴🆇🅿🅴🆁🆃🅸🆂🅴
