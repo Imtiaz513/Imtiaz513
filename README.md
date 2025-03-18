@@ -29,20 +29,6 @@ I enjoy playing chess, solving analytical problems,data-driven insights and busi
   </a>
  </p>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaz513" alt="imtiaz513" /></a> </p>
-
-- 🔭 I’m currently working on **Predictive Analytics and Statistical Insights using R, SPSS, Stata, and Minitab.**
-
-- 🌱 I’m currently learning **Cloud Data Platforms: AWS, Snowflake, BigQuery Advanced Statistical Methods: R, Python**
-
-- 👯 I’m looking to collaborate on **Data Analysis & Visualization — Using Stata, SPSS, R, and Minitab for insights.**
-
-- 🤝 I’m looking for help with **Advanced Statistical Modeling — Uncovering data-driven solutions through complex techniques.**
-
-- 💬 Ask me about **Statistical Analysis: Stata, SPSS, R, Minitab Data Cleaning, Wrangling & Visualization Predictive Modeling & Hypothesis Testing**
-
   # 💻 Tech Stack
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
