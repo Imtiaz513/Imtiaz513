@@ -1,6 +1,21 @@
 <h1 align="center">Hello World! 🌍 I'm Imtiaz Hussain 👋🏼 </h1>
-<h3 align="center">A am passionate Data Analyst based in Pakistan, with a love for transforming data into actionable insights. Let's explore the power of data together!</h3>
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+<p style = "text-align: center;"><strong>
+  I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions."
+  Let me know if you'd like any tweaks.
+</strong>
+</p>
+<p style = "text-align: center;"><strong>
+My interest lies in SQL, Python, and Power BI, focused on data-driven insights.
+</strong>
+</p>
+<p style = "text-align: center;"><strong>
+I enjoy playing chess, solving analytical problems,data-driven insights and business analytics.
+</strong>
+</p>
 
+![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiaz513" alt="imtiaz513" /></a> </p>
