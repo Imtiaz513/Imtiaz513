@@ -69,7 +69,7 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
   ###
 
-<a href="https://app.daily.dev/Imtiaz513"><img src="https://api.daily.dev/devcards/v2/l1myz12MpKXwb5wRaJW5N.png?type=wide&r=pry" width="652" alt="Imtiaz513's Dev Card"/></a>
+<a href="https://app.daily.dev/imtiazhussain"><img src="https://api.daily.dev/devcards/v2/l1myz12MpKXwb5wRaJW5N.png?type=wide&r=pry" width="652" alt="Imtiaz Hussain - Data Analyst's Dev Card"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
