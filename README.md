@@ -32,17 +32,19 @@
  </p>
   
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
-  
+ 
+![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=mysql&logoColor=black)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-red?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=black)  
 ![R](https://img.shields.io/badge/R-red?style=for-the-badge&logo=r&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=sqlite&logoColor=black)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=for-the-badge&logo=postgresql&logoColor=black)  
-![Docker](https://img.shields.io/badge/Docker-red?style=for-the-badge&logo=docker&logoColor=black)  
+![SPSS](https://img.shields.io/badge/SPSS-red?style=for-the-badge&logo=ibm&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-red?style=for-the-badge&logo=microsoft-excel&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-red?style=for-the-badge&logo=docker&logoColor=black)  
 
 ---
+
 ## 🅼🆈 🅴🆇🅿🅴🆁🆃🅸🆂🅴
 
 ✔️ 📊 Data Analytics & BI: 5+ years of experience in data-driven insights.
