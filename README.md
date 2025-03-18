@@ -1,8 +1,7 @@
 <h1 align="center">Hello World! 🌍 I'm Imtiaz Hussain 👋🏼 </h1>
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 <p style = "text-align: center;"><strong>
-  I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions."
-  Let me know if you'd like any tweaks.
+  I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions.
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
