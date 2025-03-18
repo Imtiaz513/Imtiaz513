@@ -33,16 +33,19 @@
   
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
  
-  
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B)  
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![SPSS](https://img.shields.io/badge/SPSS-%2300529C.svg?style=for-the-badge&logo=ibm&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+ 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![SPSS](https://img.shields.io/badge/SPSS-%2300529C.svg?style=for-the-badge&logo=ibm&logoColor=white) 
+![Stata](https://img.shields.io/badge/Stata-%23003C77.svg?style=for-the-badge&logo=stata&logoColor=white) 
+![Minitab](https://img.shields.io/badge/Minitab-%230080C1.svg?style=for-the-badge&logo=minitab&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ 
 
 
 ---
