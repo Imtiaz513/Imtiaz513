@@ -29,7 +29,8 @@ I enjoy playing chess, solving analytical problems,data-driven insights and busi
   </a>
  </p>
   
-  # 💻 Tech Stack
+  ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
+  
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
