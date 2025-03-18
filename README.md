@@ -69,9 +69,8 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
   ###
 
-<a href="https://www.linkedin.com/in/imtiazhussain12" target="_blank">
-    <img src="https://github.com/YOUR_GITHUB_USERNAME.png" width="200" alt="Imtiaz Hussain - Data Analyst">
-</a>
+![Imtiaz Hussain - Data Analyst](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/profile.jpg)
+
 
 
 <h3 align="left">Connect with me:</h3>
