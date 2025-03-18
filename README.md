@@ -75,6 +75,13 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🔝 🆃🅾🅿 🅲🅾🅽🆃🆁🅸🅱🆄🆃🅴🅳 🆁🅴🅿🅾
+
+![](https://github-contributor-stats.vercel.app/api?username=imtiaz513&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=imtiaz513&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 
 
