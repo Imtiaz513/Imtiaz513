@@ -62,6 +62,12 @@ I enjoy playing chess, solving analytical problems,data-driven insights and busi
 
 I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving mindset and a drive for continuous learning 🎓. I thrive on extracting insights 📈 and making data-driven decisions, always open to new ideas and collaborations🍁🎃🍂
 
+## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
+
+- **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
+- **Website:** [ⒷⓐⓡⓓⓊⓘ ⃝Ⓒⓞⓜ](https://www.bardui.com/)
+- **Email:** `ihsofh@gmail.com`
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imtiazhussain12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiazhussain12" height="30" width="40" /></a>
