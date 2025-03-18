@@ -1,6 +1,7 @@
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=black&style=flat" alt="imtiaz513" /> 
- </p>
+<p align="left">  
+    <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=black&style=flat" alt="imtiaz513 Profile Views" />  
+    <span style="color: red; font-size: 16px; font-weight: bold;"> Total Views: [YOUR_NUMBER_HERE] </span>  
+</p>
 
 ## 🅷🅸 🅰🆆🅴🆂🅾🅼🅴 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃🆂 👋
 
