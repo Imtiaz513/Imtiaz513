@@ -22,15 +22,15 @@
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
-<p>
 <p align="left">
   <a href="https://github.com/Imtiaz513">
-    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=radical">
-      </a>
-   <a href="https://github.com/Imtiaz513">
-    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=radical"/>
+    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=2077">
+  </a>
+  <a href="https://github.com/Imtiaz513">
+    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=2077"/>
   </a>
 </p>
+
   
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
  
