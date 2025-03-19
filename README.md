@@ -21,9 +21,13 @@
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
+
+<p>
 <p align="left">
   <a href="https://github.com/Imtiaz513">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=radical">
+      </a>
+   <a href="https://github.com/Imtiaz513">
     <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nImtiaz513&layout=compact&theme=radical"/>
   </a>
 </p>
