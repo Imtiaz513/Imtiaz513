@@ -21,14 +21,13 @@
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
-<p>
-  <a href="https://github.com/https://github.com/Imtiaz513" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Imtiaz513&hide=java,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+
+<p align="left">
+  <a href="https://github.com/Imtiaz513">
+    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=radical">
+    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nImtiaz513&layout=compact&theme=radical"/>
   </a>
-  <a href="https://github.com/https://github.com/Imtiaz513" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-  </a>
- </p>
+</p>
   
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
  
