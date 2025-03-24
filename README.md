@@ -98,9 +98,7 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 <details>
   <summary> Click to find out more!</summary> 
   <ul>
-    <li><strong>Multilingual</strong>: Fluent in English, Urdu, Punjabi, and Hindi.</li>
-    <li><strong>Achievements</strong>: Best Progress Award (2019 & 2020), Rochdale School's Badminton Champion (2019), Sports Achievements (Cricket & Badminton), Best Handwriting Award, State-Level Urdu Competition.</li>
-    <li><strong>Creative Skills</strong>: Passionate about calligraphy, henna artistry, choreography, and vision board curation.</li>
+    <li><strong>Multilingual</strong>: Fluent in English, Urdu, Shina, and Brushaski.</li>
   </ul>
 </details>
 
