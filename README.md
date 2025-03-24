@@ -148,13 +148,12 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
-<!-- Bouton "Back to Top" -->
+<!-- Back to Top Button with Rainbow Effect -->
 <br>
 <div align="right">
   <a href="#top" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Scroll%20Up-black?style=for-the-badge&logo=&logoColor=red" alt="Scroll Up"/>
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/Scroll%20Up-ff0000?style=for-the-badge&logo=&logoColor=ff7f00&labelColor=ff0000&color=ff7f00&labelColor=yellow&color=green&labelColor=blue&color=indigo&labelC
+
 
 
 
