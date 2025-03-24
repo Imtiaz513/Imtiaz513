@@ -104,7 +104,7 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 ---
 
-<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Imtiaz513/Imtiaz513/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 <br>
