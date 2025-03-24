@@ -128,10 +128,13 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 <div align="center">
 <br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{K1rsN7}/count.svg" /></p> 
+<p align="center"><b style="color: red; font-size: 18px;">Visitors Count</b></p>  
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/{Imtiaz513}/count.svg" style="background-color: black; padding: 10px; border-radius: 8px;" />
+</p> 
 </div>
 <br>
+
 </details>
 <div align="center">
 <br>
