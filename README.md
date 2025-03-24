@@ -1,3 +1,4 @@
+![Imtiaz Hussain's Github Banner](https://github.com/Imtiaz513/Imtiaz513/blob/main/Data%20Analyst%20%7C%20Data%20Scientist%20-%20Imtiaz%20Hussain.png)
 <p align="left">  
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" />
 </p>
