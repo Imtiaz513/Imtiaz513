@@ -128,17 +128,6 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 ![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-snake-dark.svg)
 
 
-<div align="center">
-<br>
-<p align="center"><b style="color: red; font-size: 18px;">Visitors Count</b></p>  
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-1500%2B-red?style=for-the-badge&logo=github&logoColor=black" alt="Visitors Count"/>
-</p> 
-</div>
-<br>
-
-
-
 </details>
 <div align="center">
 <br>
