@@ -51,7 +51,9 @@
    <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
   </a>
-
+   <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
