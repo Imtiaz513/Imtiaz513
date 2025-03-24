@@ -123,6 +123,9 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 ---
 
+![snake gif](https://github.com/AbirLassoued/AbirLassoued/blob/output/github-snake-dark.svg)
+
+
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
