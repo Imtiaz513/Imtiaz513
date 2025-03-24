@@ -152,8 +152,9 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 <br>
 <div align="right">
   <a href="#top" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Scroll%20Up-ff0000?style=for-the-badge&logo=&logoColor=ff7f00&labelColor=ff0000&color=ff7f00&labelColor=yellow&color=green&labelColor=blue&color=indigo&labelC
-
+    <img src="https://img.shields.io/badge/Scroll%20Up-ff0000?style=for-the-badge&logo=&logoColor=ff7f00&labelColor=ff0000&color=ff7f00&labelColor=yellow&color=green&labelColor=blue&color=indigo&labelColor=violet" alt="Scroll Up"/>
+  </a>
+</div>
 
 
 
