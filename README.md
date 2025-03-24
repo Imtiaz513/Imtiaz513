@@ -1,4 +1,3 @@
-![Imtiaz Hussain's Github Banner](https://github.com/Imtiaz513/Imtiaz513/blob/main/Data%20Analyst%20%7C%20Data%20Scientist%20-%20Imtiaz%20Hussain.png)
 <p align="left">  
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" />
 </p>
@@ -94,6 +93,20 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imtiaz513&icon=5&color=0)](https://visitcount.itsvg.in)
+
+
+<details>
+  <summary> Click to find out more!</summary> 
+  <ul>
+    <li><strong>Multilingual</strong>: Fluent in English, Urdu, Punjabi, and Hindi.</li>
+    <li><strong>Achievements</strong>: Best Progress Award (2019 & 2020), Rochdale School's Badminton Champion (2019), Sports Achievements (Cricket & Badminton), Best Handwriting Award, State-Level Urdu Competition.</li>
+    <li><strong>Creative Skills</strong>: Passionate about calligraphy, henna artistry, choreography, and vision board curation.</li>
+  </ul>
+</details>
+
+---
+
+<img src="https://raw.githubusercontent.com/FarahIbrar/FarahIbrar/output/snake.svg" alt="Snake animation" />
 
 
 
