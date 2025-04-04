@@ -19,6 +19,7 @@
 ✔ I enjoy playing chess, solving analytical problems,data-driven insights and business analytics.
 </strong>
 </p>
+
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
