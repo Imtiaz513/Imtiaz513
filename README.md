@@ -12,7 +12,7 @@
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
-✔ Interested in SQL, Python, Power BI, R, SPSS, Stata, Minitab, and Statistics—specializing in data analysis and visualization.
+✔ Interested in SQL, Python, Power BI, R, SPSS, Stata, Minitab, and Statistics specializing in data analysis and visualization.
 </strong>
 </p>
 <p style = "text-align: center;"><strong>
