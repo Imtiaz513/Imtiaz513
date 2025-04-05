@@ -44,10 +44,7 @@
   <a href="" target="_blank" title="GitHub" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-    <a href="https://www.python.org/" title="Python" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  </a>
-   <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
+  <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
    <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
