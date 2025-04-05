@@ -66,7 +66,6 @@
 ![Stata](https://img.shields.io/badge/Stata-%23003C77.svg?style=for-the-badge&logo=stata&logoColor=white) 
 ![Minitab](https://img.shields.io/badge/Minitab-%230080C1.svg?style=for-the-badge&logo=minitab&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-%2300A651.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
  
 
