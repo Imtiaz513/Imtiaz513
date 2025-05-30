@@ -1,5 +1,5 @@
- <p align="left">  
-   <img src="https://img.shields.io/badge/Profile%20Views-3000%2B-red?style=flat&logo=github&logoColor=black" alt="imtiaz513 Profile Views"/>    
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-3000%2B-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="left"> 
@@ -149,16 +149,10 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 
  
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abbosch1k}/count.svg" /></p> 
-</div>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-3000%2B-brightgreen?style=for-the-badge" />
-</p>
+
+
 
 
 
