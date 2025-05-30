@@ -156,6 +156,7 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 </div>
 >
 
+<img src="https://profile-counter.glitch.me/{abbosch1k}/count.svg" />
 
 
 
