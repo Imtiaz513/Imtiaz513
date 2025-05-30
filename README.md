@@ -148,6 +148,49 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 </div>
 
 
+---
+🎯 I am open to new collaborations and interesting projects! Feel free to contact me! 🚀
+####
+<br clear="both">
+<p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+ <p align="center">
+  <a href="https://jrohit.com.np/" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/Imtiaz513/Imtiaz513/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://raw.githubusercontent.com/Imtiaz513/Imtiaz513/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://jrohit.com.np" target="_blank">
+    <img src="https://github.com/Imtiaz513/Imtiaz513/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
+  </a>
+  
+ </p>
+ 
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abbosch1k}/count.svg" /></p> 
+</div>
+>
 
 
 
