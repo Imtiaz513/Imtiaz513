@@ -154,9 +154,12 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{abbosch1k}/count.svg" /></p> 
 </div>
->
 
-<img src="https://profile-counter.glitch.me/{abbosch1k}/count.svg" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-3000%2B-brightgreen?style=for-the-badge" />
+</p>
+
 
 
 
