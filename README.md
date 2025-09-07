@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://img.shields.io/badge/Visitors-3000%2B-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Visitors-3000%2B-brightgreen?style=for-the-badge" />
 </p>
 <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=imtiaz513&label=Profile%20views&color=0e75b6&style=flat" alt="imtiaz513" /> 
