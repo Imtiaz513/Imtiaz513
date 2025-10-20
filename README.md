@@ -220,6 +220,59 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
 - **Email:** `ihsofh@gmail.com`
+<div align="center">
+<picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
+</picture>
+
+<br>
+<!-- START: paste outside any ``` fences --> <table align="center" width="85%"> <tr> <td style=" padding: 28px; border: 3px solid transparent; border-radius: 10px; background: linear-gradient(#FFFFFF,#FFFFFF) padding-box, linear-gradient(45deg,#FFF9FD,#F8F7FF,#F6FFFB,#F7FAFF,#FFF9F2) border-box; "> <!-- top animated pastel ombre bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16,20,24&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/> </picture> <!-- cute mismatched pastel badges --> <p align="center" style="margin:10px 0 8px;"> <img src="https://img.shields.io/badge/Pastel%20Vibes-%E2%9C%A8-FFEAF4?style=for-the-badge&labelColor=DFF9F2" alt="Pastel Vibes badge"> <img src="https://img.shields.io/badge/Soft%20Ombr%C3%A9-%F0%9F%8C%88-EDEBFF?style=for-the-badge&labelColor=FFE6F1" alt="Soft Ombré badge"> <img src="https://img.shields.io/badge/Gently%20Animated-%F0%9F%92%AB-DFF5FF?style=for-the-badge&labelColor=FEEED6" alt="Gently Animated badge"> </p> <p align="center" style="margin:-4px 0 16px;"> <img src="https://img.shields.io/badge/Cute%20%26%20Professional-%F0%9F%92%96-FFF7E8?style=for-the-badge&labelColor=EAF1FF" alt="Cute & Professional badge"> <img src="https://img.shields.io/badge/Ombre%20Glow-%F0%9F%8C%9E-FFE6F1?style=for-the-badge&labelColor=E6FFF5" alt="Ombre Glow badge"> </p> <!-- your content --> <p align="center" style="font-size:16px; color:#7C3AED; line-height:1.8; margin:0 0 14px;"> I'm always interested in conversations about pattern discovery, ethical AI, or why medical algorithms think everyone is a 70kg male. Also happy to discuss career transitions, the beauty of well-documented code, or why pastel color schemes are objectively superior. </p> <h4 align="center" style="color:#8B5CF6; margin:6px 0 8px;">Topics That Light Me Up</h4> <p align="center" style="font-size:14px; color:#6366F1; line-height:1.6; margin:0;"> Hidden patterns in data • Building fair AI systems • Healthcare innovation<br> Statistical methods that actually work • Open source collaboration<br> Making complex things simple • Women in tech • Ethical technology<br> That one bug that took three days to find (it was a typo) </p> <!-- bottom animated pastel ombre bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,16,12,8,4,0&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/> </picture> </td> </tr> </table> <!-- END: paste outside any ``` fences -->
+
+<br>
+  
+</picture>
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Curious about patterns?
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Interested in fairness?
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ Want to build together?
+████████████████████████████████████ Let's make AI fair
+```
+
+<table align="center" width="88%" style="border-collapse: separate; border-spacing: 15px;">
+<tr>
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #D4FFE4 100%); padding: 18px; border-radius: 18px;">
+<a href="https://linkedin.com/in/imtiazhussain12">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #93C5FD 100%); padding: 18px; border-radius: 18px;">
+<a href="https://github.com/Imtiaz513">
+<img src="https://img.shields.io/badge/GitHub-Follow-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="GitHub"/>
+</a>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #D4FFE4 0%, #FFCCE5 100%); padding: 18px; border-radius: 18px;">
+<a href="mailto:ihsofh@gmail.com">
+<img src="https://img.shields.io/badge/Email-Hello-E6E0FF?style=for-the-badge&labelColor=93C5FD" alt="Email"/>
+</a>
+</td>
+<td align="center" style="background: linear-gradient(135deg, #FFCCE5 0%, #E6E0FF 100%); padding: 18px; border-radius: 18px;">
+<a href="https://foxxhealth.com">
+<img src="https://img.shields.io/badge/FoXX%20Health-Visit-D4FFE4?style=for-the-badge&labelColor=FFE0F5" alt="FoXX"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let%27s+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
+</picture>
+
+</div>
+
+---
 
 ## 🏆 🅶🅸🆃🅷🆄🅱 🆃🆁🅾🅿🅷🅸🅴🆂
 
