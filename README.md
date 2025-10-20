@@ -95,6 +95,39 @@
 
 ✔️ 🌎 Communication: Fluent in English, project management experience.
 
+
+
+<picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Quantitative%20Skills&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
+</picture>
+
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #FFE0F5 33%, #93C5FD 66%, #E6E0FF 100%); padding: 40px; border-radius: 30px;">
+
+<h3 align="center" style="color: #0EA5E9;">Statistics & QC</h3>
+
+<div align="center">
+
+<!-- Intentionally mismatched combinations -->
+<img src="https://img.shields.io/badge/Hypothesis%20Testing-Advanced-DDEBFF?style=for-the-badge&labelColor=B5C7F2" alt="Hypothesis Testing"/>
+<img src="https://img.shields.io/badge/Power%20Analysis-Advanced-D4FFE4?style=for-the-badge&labelColor=C7CEFA" alt="Power Analysis"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-Advanced-FFE0F5?style=for-the-badge&labelColor=93C5FD" alt="AB Testing"/>
+<img src="https://img.shields.io/badge/Bootstrapping-Advanced-FFCCE5?style=for-the-badge&labelColor=E6E0FF" alt="Bootstrapping"/>
+<br><br>
+<img src="https://img.shields.io/badge/ANOVA%20%2F%20ANCOVA-Advanced-E6E0FF?style=for-the-badge&labelColor=D4FFE4" alt="ANOVA"/>
+<img src="https://img.shields.io/badge/Regression-Advanced-93C5FD?style=for-the-badge&labelColor=FFE0F5" alt="Regression"/>
+<img src="https://img.shields.io/badge/Time%20Series-Intermediate-FFD6E8?style=for-the-badge&labelColor=DDEBFF" alt="Time Series"/>
+<img src="https://img.shields.io/badge/Causal%20Inference-Intermediate-D4FFE4?style=for-the-badge&labelColor=FFCCE5" alt="Causal"/>
+<br><br>
+<img src="https://img.shields.io/badge/GMP%20%26%20GDP-Advanced-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="GMP"/>
+<img src="https://img.shields.io/badge/Control%20Charts-Advanced-E6E0FF?style=for-the-badge&labelColor=FFE0F5" alt="Control Charts"/>
+<img src="https://img.shields.io/badge/Process%20Capability-Advanced-D4FFE4?style=for-the-badge&labelColor=B5C7F2" alt="Process Capability"/>
+<img src="https://img.shields.io/badge/Monte%20Carlo-Intermediate-FFE0F5?style=for-the-badge&labelColor=E6E0FF" alt="Monte Carlo"/>
+
+</div>
+
+
+
 ## 🅰🅱🅾🆄🆃 🅼🅴
 
 I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving mindset and a drive for continuous learning 🎓. I thrive on extracting insights 📈 and making data-driven decisions, always open to new ideas and collaborations🍁🎃🍂
