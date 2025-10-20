@@ -188,7 +188,7 @@
 <table align="center" width="95%">
 <tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #FFE0F5 33%, #93C5FD 66%, #E6E0FF 100%); padding: 40px; border-radius: 30px;">
 
-<h3 align="center" style="color: #0EA5E9;">Statistics & QC</h3>
+<h3 align="Left" style="color: #0EA5E9;">Statistics & QC</h3>
 
 <div align="Left">
 
