@@ -190,7 +190,7 @@
 
 <h3 align="center" style="color: #0EA5E9;">Statistics & QC</h3>
 
-<div align="center">
+<div align="Left">
 
 <!-- Intentionally mismatched combinations -->
 <img src="https://img.shields.io/badge/Hypothesis%20Testing-Advanced-DDEBFF?style=for-the-badge&labelColor=B5C7F2" alt="Hypothesis Testing"/>
