@@ -138,7 +138,7 @@
 
 <br>
 
-<div align="center">
+<div align="Left">
 <img src="https://img.shields.io/badge/AWS-Intermediate-E6E0FF?style=for-the-badge&labelColor=FFB5CC" alt="AWS"/>
 <img src="https://img.shields.io/badge/Docker-Advanced-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="Docker"/>
 <img src="https://img.shields.io/badge/Kubernetes-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="K8s"/>
@@ -166,7 +166,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Swift-Basic-FFCCE5?style=for-the-badge&labelColor=DDEBFF" alt="Swift"/>
 <img src="https://img.shields.io/badge/C-Intermediate-B5C7F2?style=for-the-badge&labelColor=FFE0F5" alt="C"/>
 <img src="https://img.shields.io/badge/Rust-Basic-D4FFE4?style=for-the-badge&labelColor=F0E6FF" alt="Rust"/>
