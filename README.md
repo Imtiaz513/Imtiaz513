@@ -102,6 +102,9 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 ![](https://github-profile-trophy.vercel.app/?username=imtiaz513&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+![Imtiaz513 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Imtiaz513&bg_color=false&color=b03a2e&line=b03a2e&point=403d3d&area=true&hide_border=true)
+
+
 ## 🆁🅰🅽🅳🅾🅼 🅳🅰🆃🅰 🆀🆄🅾🆃🅴
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
