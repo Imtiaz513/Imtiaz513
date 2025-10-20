@@ -95,7 +95,91 @@
 
 ✔️ 🌎 Communication: Fluent in English, project management experience.
 
+### DATA SCIENCE & VISUALIZATION
 
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(180deg, #FFF8FD 0%, #DDEBFF 25%, #E6E0FF 50%, #FFCCE5 75%, #D4FFE4 100%); padding: 35px; border-radius: 30px;">
+
+```
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+```
+
+<h3 align="center" style="color: #6366F1;">Data Science & Visualization</h3>
+<p align="center" style="color: #7C3AED; font-size: 14px;">Where math meets aesthetics</p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-Advanced-C7CEFA?style=for-the-badge&labelColor=FFCCE5" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-Advanced-FFE0F5?style=for-the-badge&labelColor=93C5FD" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Matplotlib-Advanced-FFCCE5?style=for-the-badge&labelColor=DDEBFF" alt="Matplotlib"/>
+<br><br>
+<img src="https://img.shields.io/badge/Seaborn-Advanced-B5C7F2?style=for-the-badge&labelColor=FFD6E8" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Plotly-Advanced-DDEBFF?style=for-the-badge&labelColor=F0E6FF" alt="Plotly"/>
+<img src="https://img.shields.io/badge/Statsmodels-Intermediate-FFD6E8?style=for-the-badge&labelColor=C7CEFA" alt="Statsmodels"/>
+<img src="https://img.shields.io/badge/Excel-Advanced-D4FFE4?style=for-the-badge&labelColor=FFE4F2" alt="Excel"/>
+</div>
+
+</td></tr>
+</table>
+
+### CLOUD & INFRASTRUCTURE
+
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #D4FFE4 0%, #E0F5FF 50%, #FFCCE5 100%); padding: 35px; border-radius: 30px;">
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<h3 align="center" style="color: #06B6D4;">Cloud & Data Engineering</h3>
+<p align="center" style="color: #0891B2; font-size: 14px;">Because models need homes too</p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-Intermediate-E6E0FF?style=for-the-badge&labelColor=FFB5CC" alt="AWS"/>
+<img src="https://img.shields.io/badge/Docker-Advanced-FFCCE5?style=for-the-badge&labelColor=93C5FD" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-D4FFE4?style=for-the-badge&labelColor=E6E0FF" alt="K8s"/>
+<img src="https://img.shields.io/badge/Airflow-Intermediate-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="Airflow"/>
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-Intermediate-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="PG"/>
+<img src="https://img.shields.io/badge/MongoDB-Advanced-FFE0F5?style=for-the-badge&labelColor=B5E5C5" alt="Mongo"/>
+<img src="https://img.shields.io/badge/Redis-Intermediate-E6E0FF?style=for-the-badge&labelColor=93C5FD" alt="Redis"/>
+<img src="https://img.shields.io/badge/Spark-Advanced-D4FFE4?style=for-the-badge&labelColor=FFE0F5" alt="Spark"/>
+</div>
+
+</td></tr>
+</table>
+
+### ADDITIONAL EXPLORATIONS
+
+<table align="center" width="95%">
+<tr><td style="background: linear-gradient(135deg, #FFCCE5 0%, #E6E0FF 30%, #D4FFE4 60%, #DDEBFF 100%); padding: 35px; border-radius: 30px;">
+
+```
+████████████████████████████████████████████████████████████████████
+```
+<h3 align="center" style="color: #A855F7;">Programming Explorations</h3>
+<p align="center" style="color: #9333EA; font-size: 14px;">Because learning new languages keeps me curious</p>
+
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Swift-Basic-FFCCE5?style=for-the-badge&labelColor=DDEBFF" alt="Swift"/>
+<img src="https://img.shields.io/badge/C-Intermediate-B5C7F2?style=for-the-badge&labelColor=FFE0F5" alt="C"/>
+<img src="https://img.shields.io/badge/Rust-Basic-D4FFE4?style=for-the-badge&labelColor=F0E6FF" alt="Rust"/>
+<img src="https://img.shields.io/badge/Cassanda-Basic-FFD6E8?style=for-the-badge&labelColor=93C5FD" alt="Cassandra"/>
+<br><br>
+<img src="https://img.shields.io/badge/Fortran-Basic-E6E0FF?style=for-the-badge&labelColor=FFCCE5" alt="Fortran"/>
+<img src="https://img.shields.io/badge/COBOL-Basic-93C5FD?style=for-the-badge&labelColor=FFE4F2" alt="COBOL"/>
+<img src="https://img.shields.io/badge/Lisp-Basic-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="Lisp"/>
+<img src="https://img.shields.io/badge/TypeScript-Intermediate-C7CEFA?style=for-the-badge&labelColor=FFD1DC" alt="TypeScript"/>
+</div>
+
+</td></tr>
+</table>
 
 <picture>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,22,21,20,19,18,17,16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1,0&height=180&section=header&text=Quantitative%20Skills&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
