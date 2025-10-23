@@ -221,15 +221,56 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
 - **Email:** `ihsofh@gmail.com`
   
-<div align="Right">
+<div align="left" style="float: left; width: 100%;">
 <picture>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
+  <img width="75%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5" alt="Contact Header"/>
 </picture>
 
 <br>
-<!-- START: paste outside any ``` fences --> <table align="left" width="85%"> <tr> <td style=" padding: 28px; border: 3px solid transparent; border-radius: 10px; background: linear-gradient(#FFFFFF,#FFFFFF) padding-box, linear-gradient(45deg,#FFF9FD,#F8F7FF,#F6FFFB,#F7FAFF,#FFF9F2) border-box; "> <!-- top animated pastel ombre bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16,20,24&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/> </picture> <!-- cute mismatched pastel badges --> <p align="center" style="margin:10px 0 8px;"> <img src="https://img.shields.io/badge/Pastel%20Vibes-%E2%9C%A8-FFEAF4?style=for-the-badge&labelColor=DFF9F2" alt="Pastel Vibes badge"> <img src="https://img.shields.io/badge/Soft%20Ombr%C3%A9-%F0%9F%8C%88-EDEBFF?style=for-the-badge&labelColor=FFE6F1" alt="Soft Ombré badge"> <img src="https://img.shields.io/badge/Gently%20Animated-%F0%9F%92%AB-DFF5FF?style=for-the-badge&labelColor=FEEED6" alt="Gently Animated badge"> </p> <p align="center" style="margin:-4px 0 16px;"> <img src="https://img.shields.io/badge/Cute%20%26%20Professional-%F0%9F%92%96-FFF7E8?style=for-the-badge&labelColor=EAF1FF" alt="Cute & Professional badge"> <img src="https://img.shields.io/badge/Ombre%20Glow-%F0%9F%8C%9E-FFE6F1?style=for-the-badge&labelColor=E6FFF5" alt="Ombre Glow badge"> </p> <!-- your content --> <p align="center" style="font-size:16px; color:#7C3AED; line-height:1.8; margin:0 0 14px;"> I'm always interested in conversations about pattern discovery, ethical AI, or why medical algorithms think everyone is a 70kg male. Also happy to discuss career transitions, the beauty of well-documented code, or why pastel color schemes are objectively superior. </p> <h4 align="center" style="color:#8B5CF6; margin:6px 0 8px;">Topics That Light Me Up</h4> <p align="center" style="font-size:14px; color:#6366F1; line-height:1.6; margin:0;"> Hidden patterns in data • Building fair AI systems • Healthcare innovation<br> Statistical methods that actually work • Open source collaboration<br> Making complex things simple • Women in tech • Ethical technology<br> That one bug that took three days to find (it was a typo) </p> <!-- bottom animated pastel ombre bar --> <picture> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,16,12,8,4,0&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/> </picture> </td> </tr> </table> <!-- END: paste outside any ``` fences -->
-
-<br>
+<!-- START: paste outside any ``` fences --> 
+<table align="left" width="85%" style="float: left;">
+  <tr>
+    <td style="padding: 28px; border: 3px solid transparent; border-radius: 10px; background: linear-gradient(#FFFFFF,#FFFFFF) padding-box, linear-gradient(45deg,#FFF9FD,#F8F7FF,#F6FFFB,#F7FAFF,#FFF9F2) border-box;">
+      <!-- top animated pastel ombre bar -->
+      <picture>
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16,20,24&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/>
+      </picture>
+      
+      <!-- cute mismatched pastel badges -->
+      <p align="center" style="margin:10px 0 8px;">
+        <img src="https://img.shields.io/badge/Pastel%20Vibes-%E2%9C%A8-FFEAF4?style=for-the-badge&labelColor=DFF9F2" alt="Pastel Vibes badge">
+        <img src="https://img.shields.io/badge/Soft%20Ombr%C3%A9-%F0%9F%8C%88-EDEBFF?style=for-the-badge&labelColor=FFE6F1" alt="Soft Ombré badge">
+        <img src="https://img.shields.io/badge/Gently%20Animated-%F0%9F%92%AB-DFF5FF?style=for-the-badge&labelColor=FEEED6" alt="Gently Animated badge">
+      </p>
+      
+      <p align="center" style="margin:-4px 0 16px;">
+        <img src="https://img.shields.io/badge/Cute%20%26%20Professional-%F0%9F%92%96-FFF7E8?style=for-the-badge&labelColor=EAF1FF" alt="Cute & Professional badge">
+        <img src="https://img.shields.io/badge/Ombre%20Glow-%F0%9F%8C%9E-FFE6F1?style=for-the-badge&labelColor=E6FFF5" alt="Ombre Glow badge">
+      </p>
+      
+      <!-- your content -->
+      <p align="center" style="font-size:16px; color:#7C3AED; line-height:1.8; margin:0 0 14px;">
+        I'm always interested in conversations about pattern discovery, ethical AI, or why medical algorithms think everyone is a 70kg male. Also happy to discuss career transitions, the beauty of well-documented code, or why pastel color schemes are objectively superior.
+      </p>
+      
+      <h4 align="center" style="color:#8B5CF6; margin:6px 0 8px;">Topics That Light Me Up</h4>
+      
+      <p align="center" style="font-size:14px; color:#6366F1; line-height:1.6; margin:0;">
+        Hidden patterns in data • Building fair AI systems • Healthcare innovation<br>
+        Statistical methods that actually work • Open source collaboration<br>
+        Making complex things simple • Women in tech • Ethical technology<br>
+        That one bug that took three days to find (it was a typo)
+      </p>
+      
+      <!-- bottom animated pastel ombre bar -->
+      <picture>
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,16,12,8,4,0&height=8&animation=twinkling" alt="Pastel Animated Ombre Bar"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+<!-- END: paste outside any ``` fences -->
+</div>
   
 </picture>
 
