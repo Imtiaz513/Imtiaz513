@@ -348,7 +348,7 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 
 </details>
-<div align="center">
+<div align="left">
 <br>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=435&height=25&lines=Thank+you+for+visiting!;I'm+waiting+for+you+again!;Have+a+good+day!" 
