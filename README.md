@@ -221,14 +221,14 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
 - **Email:** `ihsofh@gmail.com`
   
-<table align="left" width="88%" style="border-collapse: separate; border-spacing: 15px;">
+<table align="Center" width="88%" style="border-collapse: separate; border-spacing: 15px;">
 <tr>
-<td align="left" style="background: linear-gradient(135deg, #FFE0F5 0%, #D4FFE4 100%); padding: 18px; border-radius: 18px;">
+<td align="center" style="background: linear-gradient(135deg, #FFE0F5 0%, #D4FFE4 100%); padding: 18px; border-radius: 18px;">
 <a href="https://linkedin.com/in/imtiazhussain12">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-93C5FD?style=for-the-badge&labelColor=FFCCE5" alt="LinkedIn"/>
 </a>
 </td>
-<td align="left" style="background: linear-gradient(135deg, #E6E0FF 0%, #93C5FD 100%); padding: 18px; border-radius: 18px;">
+<td align="center" style="background: linear-gradient(135deg, #E6E0FF 0%, #93C5FD 100%); padding: 18px; border-radius: 18px;">
 <a href="https://github.com/Imtiaz513">
 <img src="https://img.shields.io/badge/GitHub-Follow-FFE0F5?style=for-the-badge&labelColor=D4FFE4" alt="GitHub"/>
 </a>
@@ -239,16 +239,9 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 </td>
 </tr>
 </table>
-
 <br>
 
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=C8A8C8&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting!;Let%27s+build+something+amazing+together;Data+science+meets+creativity" alt="Footer Message" />
-</picture>
 
-</div>
-
----
 
 ## 🏆 🅶🅸🆃🅷🆄🅱 🆃🆁🅾🅿🅷🅸🅴🆂
 
