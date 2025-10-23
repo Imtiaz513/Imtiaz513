@@ -373,65 +373,9 @@ I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving min
 
 <br>
 
-## 📬 Let's Connect!
 
-![Top Bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16,20,24&height=8&animation=twinkling)
 
-### 🎨 Pastel Vibes
-![Pastel Vibes](https://img.shields.io/badge/Pastel%20Vibes-%E2%9C%A8-FFEAF4?style=for-the-badge&labelColor=DFF9F2)
-![Soft Ombré](https://img.shields.io/badge/Soft%20Ombr%C3%A9-%F0%9F%8C%88-EDEBFF?style=for-the-badge&labelColor=FFE6F1)
-![Gently Animated](https://img.shields.io/badge/Gently%20Animated-%F0%9F%92%AB-DFF5FF?style=for-the-badge&labelColor=FEEED6)
 
-![Cute & Professional](https://img.shields.io/badge/Cute%20%26%20Professional-%F0%9F%92%96-FFF7E8?style=for-the-badge&labelColor=EAF1FF)
-![Ombre Glow](https://img.shields.io/badge/Ombre%20Glow-%F0%9F%8C%9E-FFE6F1?style=for-the-badge&labelColor=E6FFF5)
-
----
-
-I'm always interested in conversations about pattern discovery, ethical AI, or why medical algorithms think everyone is a 70kg male. Also happy to discuss career transitions, the beauty of well-documented code, or why pastel color schemes are objectively superior.
-
-### 💡 Topics That Light Me Up
-Hidden patterns in data • Building fair AI systems • Healthcare innovation  
-Statistical methods that actually work • Open source collaboration  
-Making complex things simple • Women in tech • Ethical technology  
-That one bug that took three days to find (it was a typo)
-
-![Bottom Bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,16,12,8,4,0&height=8&animation=twinkling)
-
-</div>
- 
-<div align="center">
-
-![Contact Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,8,12,16,20,24&height=180&section=header&text=Let's%20Connect&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Collaborate%20%E2%80%A2%20Discuss%20%E2%80%A2%20Build&descAlignY=70&descSize=22&fontColor=FFE0F5)
-
-<br>
-
-## 📬 Let's Connect!
-
-![Top Bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,8,12,16,20,24&height=8&animation=twinkling)
-
-### 🎨 Pastel Vibes
-![Pastel Vibes](https://img.shields.io/badge/Pastel%20Vibes-%E2%9C%A8-FFEAF4?style=for-the-badge&labelColor=DFF9F2)
-![Soft Ombré](https://img.shields.io/badge/Soft%20Ombr%C3%A9-%F0%9F%8C%88-EDEBFF?style=for-the-badge&labelColor=FFE6F1)
-![Gently Animated](https://img.shields.io/badge/Gently%20Animated-%F0%9F%92%AB-DFF5FF?style=for-the-badge&labelColor=FEEED6)
-
-<br>
-
-![Cute & Professional](https://img.shields.io/badge/Cute%20%26%20Professional-%F0%9F%92%96-FFF7E8?style=for-the-badge&labelColor=EAF1FF)
-![Ombre Glow](https://img.shields.io/badge/Ombre%20Glow-%F0%9F%8C%9E-FFE6F1?style=for-the-badge&labelColor=E6FFF5)
-
----
-
-I'm always interested in conversations about pattern discovery, ethical AI, or why medical algorithms think everyone is a 70kg male. Also happy to discuss career transitions, the beauty of well-documented code, or why pastel color schemes are objectively superior.
-
-### 💡 Topics That Light Me Up
-Hidden patterns in data • Building fair AI systems • Healthcare innovation  
-Statistical methods that actually work • Open source collaboration  
-Making complex things simple • Women in tech • Ethical technology  
-That one bug that took three days to find (it was a typo)
-
-![Bottom Bar](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,16,12,8,4,0&height=8&animation=twinkling)
-
-</div>
 
 
 
