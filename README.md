@@ -36,8 +36,7 @@
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark">
   </a>
  <a href="https://github.com/Imtiaz513">
-  <img height="180em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=dark&cache_seconds=1800"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=dark&cache_seconds=1800"/>
 </a>
 </p>
 
