@@ -38,6 +38,22 @@
 <a href="https://github.com/Imtiaz513">
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=dark&cache_seconds=1800"/> 
 </a>
+  
+  ## 🏆 **Achievements**
+<div align="center">
+
+[![trophy](https://github.Imtiaz513.com/badges/Imtiaz513/trophies/)](https://github.Imtiaz513.com/github/user/Imtiaz513/)
+
+</div>
+
+
+---
+
+![Footer](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
+
+---
 </p>
 
 
