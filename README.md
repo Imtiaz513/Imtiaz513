@@ -41,7 +41,7 @@
 
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&show_icons=true" />
 </div>
 
 
