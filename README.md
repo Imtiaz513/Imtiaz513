@@ -40,22 +40,11 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imtiaz513&theme=radical" />
-</p>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&show_icons=true&theme=radical" />
+</div>
 
 
-
-
-
-
-
-
-
-
-
-
-  
   ## 💻 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
   
   <p align="center">
