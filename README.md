@@ -38,7 +38,7 @@
 
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Imtiaz513&theme=radical" />
 </p>
 
