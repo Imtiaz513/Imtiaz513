@@ -31,11 +31,13 @@
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
+![](https://github-profile-trophy.vercel.app/?username=Imtiaz513&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="left">
   <a href="https://github.com/Imtiaz513">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark">
   </a>
-![](https://github-profile-trophy.vercel.app/?username=Imtiaz513&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </p>
 
 
