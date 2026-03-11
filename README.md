@@ -35,7 +35,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Imtiaz513&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
+<p align="right">
   <a href="https://github.com/Imtiaz513">
     <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark">
   </a>
