@@ -31,15 +31,6 @@
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
-![](https://github-readme-stats.vercel.app/api?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Imtiaz513&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="Left">
-  <a href="https://github.com/Imtiaz513">
-    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark">
-  </a>
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Imtiaz513&theme=dark&hide_border=false" height="150"/>
