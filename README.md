@@ -40,6 +40,12 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Imtiaz513&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark" height="150"/>
+</p>
 
 
 
