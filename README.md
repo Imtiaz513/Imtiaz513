@@ -1,5 +1,4 @@
-                     <div align="center">
-
+ <div align="center">
 
 <!-- profile views -->
 <img src="https://img.shields.io/badge/Profile_Views-5.7k-F2F6FF?style=for-the-badge&labelColor=B5C7F2&color=D8B5D8" alt="Profile Views"/>
