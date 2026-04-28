@@ -12,6 +12,10 @@
 
 ## 🅷🅸 🅰🆆🅴🆂🅾🅼🅴 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃🆂 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Imtiaz+Hussain+%F0%9F%91%8B" />
+</p>
+
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
 <p style = "text-align: center;"><strong>
 ✔ I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions.
