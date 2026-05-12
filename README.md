@@ -3,7 +3,7 @@
 <!-- profile views -->
 <img src="https://img.shields.io/badge/Profile_Views-13.2k-F2F6FF?style=for-the-badge&labelColor=B5C7F2&color=D8B5D8" alt="Profile Views"/>
 
-![GitHub followers](https://img.shields.io/github/followers/Imtiaz513?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Imtiaz513?style=for-the-badge&logo=github)
 ![](https://img.shields.io/github/stars/Imtiaz513?color=93C5FD&style=for-the-badge&labelColor=B5C7F2&label=Total+Stars)
 
 </div>
