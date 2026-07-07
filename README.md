@@ -9,9 +9,7 @@
 ### 📊 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃 | 📈 🆂🆃🅰🆃🅸🆂🆃🅸🅲🅸🅰🅽 | ⚙️ 🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁 | 🐍 🅿🆈🆃🅷🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Medical%20Data%20Analyst-000000?style=for-the-badge&logoColor=red" />
-  <img src="https://img.shields.io/badge/Biostatistician-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Engineer-000000?style=for-the-badge&logoColor=red" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=FF0000&center=true&vCenter=true&width=950&lines=Medical+Data+Analyst;Biostatistician;Healthcare+Analytics;Clinical+Research;Python+Developer;SQL+Developer;Power+BI+Developer;Machine+Learning;Statistical+Analysis;Predictive+Analytics;Data+Engineering;Business+Intelligence;Data+Visualization" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=Imtiaz513&style=for-the-badge&color=red"/>
