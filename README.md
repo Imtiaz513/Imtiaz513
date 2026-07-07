@@ -1,5 +1,41 @@
 <div align="center">
 
+# 👋 Hi, I'm Imtiaz Hussain
+
+### 📊 Data Analyst | 📈 Statistician | ⚙️ Data Engineer | 🐍 Python Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Statistics+%7C+Data+Visualization;Always+Learning+and+Building..." />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Imtiaz513&style=for-the-badge&color=red"/>
+<img src="https://img.shields.io/github/followers/Imtiaz513?style=for-the-badge&color=black"/>
+<img src="https://img.shields.io/github/stars/Imtiaz513?style=for-the-badge&color=red"/>
+</p>
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 <!-- profile views -->
 <img src="https://img.shields.io/badge/Profile_Views-14.3k-F2F6FF?style=for-the-badge&labelColor=B5C7F2&color=D8B5D8" alt="Profile Views"/>
 
