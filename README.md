@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500" alt="Programmer"/>
-</p>
-
-
-
 <div align="center">
 
 # 👋 🅷🅸, 🅸'🅼 🅸🅼🆃🅸🅰🆉 🅷🆄🆂🆂🅰🅸🅽
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
 
 ### 📊 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃 | 📈 🆂🆃🅰🆃🅸🆂🆃🅸🅲🅸🅰🅽 | ⚙️ 🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁 | 🐍 🅿🆈🆃🅷🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
