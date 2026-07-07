@@ -213,10 +213,6 @@
 
 
 
-## 🅰🅱🅾🆄🆃 🅼🅴
-
-I'm a Passionate 🥇and analytical 🔍 Data Analyst with a problem-solving mindset and a drive for continuous learning 🎓. I thrive on extracting insights 📈 and making data-driven decisions, always open to new ideas and collaborations🍁🎃🍂
-
 ## 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴
 
 - **LinkedIn:** [Ⓘⓜⓣⓘⓐⓩ Ⓗⓤⓢⓢⓐⓘⓝ](https://www.linkedin.com/in/imtiazhussain12)
