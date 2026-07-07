@@ -58,21 +58,17 @@
 
 ---
 
-### 🚀 About Me
+## 🅰🅱🅾🆄🆃 🅼🅴 💻
 
-✔ 📊 I transform **raw, complex datasets** into clear, actionable insights that support smarter business decisions.
+✔ 📊 Turning data into meaningful insights.
 
-✔ 🐍 Experienced in **Python, SQL, R, Power BI, Excel, SPSS, Stata, and Minitab** for data analysis, visualization, automation, and statistical modeling.
+✔ 🐍 Python • SQL • Power BI • Excel • Statistics.
 
-✔ 📈 I build **interactive dashboards, automated reports, predictive models, and business intelligence solutions** that deliver measurable impact.
+✔ 📈 Building dashboards and data-driven solutions.
 
-✔ 🧹 Skilled in **data cleaning, data transformation, exploratory data analysis (EDA), and feature engineering** to ensure accurate and reliable results.
+✔ 🤖 Exploring AI, Machine Learning, and Data Engineering.
 
-✔ 🤖 Passionate about **Machine Learning, Predictive Analytics, Data Engineering, and AI-driven analytics** for solving real-world business problems.
-
-✔ 💼 Committed to writing **clean, efficient, and scalable code**, with a focus on delivering high-quality solutions on time.
-
-✔ 🌍 Always learning new technologies and best practices to help businesses unlock the full potential of their data.
+✔ 💼 Helping businesses make smarter decisions with data.
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
