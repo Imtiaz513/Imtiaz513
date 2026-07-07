@@ -18,45 +18,7 @@
 
 </div>
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<!-- profile views -->
-<img src="https://img.shields.io/badge/Profile_Views-14.3k-F2F6FF?style=for-the-badge&labelColor=B5C7F2&color=D8B5D8" alt="Profile Views"/>
-
-![Followers](https://img.shields.io/github/followers/Imtiaz513?style=for-the-badge)
-![](https://img.shields.io/github/stars/Imtiaz513?color=93C5FD&style=for-the-badge&labelColor=B5C7F2&label=Total+Stars)
-
-</div>
-
-
-
-## 🅷🅸 🅰🆆🅴🆂🅾🅼🅴 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃🆂 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Imtiaz+Hussain+%F0%9F%91%8B;Data+Analyst+%7C+Statistician+%7C+Data+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+Into+Business+Insights" />
-</p>
-
----
+----
 
 ## 🅰🅱🅾🆄🆃 🅼🅴 💻
 
