@@ -53,23 +53,26 @@
 ## 🅷🅸 🅰🆆🅴🆂🅾🅼🅴 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃🆂 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Imtiaz+Hussain+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Imtiaz+Hussain+%F0%9F%91%8B;Data+Analyst+%7C+Statistician+%7C+Data+Engineer;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Turning+Raw+Data+Into+Business+Insights" />
 </p>
 
-![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
-<p style = "text-align: center;"><strong>
-✔ I’m a self-taught Data Analyst passionate about data-driven insights and open-source contributions.
-</strong>
-</p>
-<p style = "text-align: center;"><strong>
-✔ Interested in SQL, Python, Power BI, R, SPSS, Stata, Minitab, and Statistics specializing in data analysis and visualization.
-</strong>
-</p>
-<p style = "text-align: center;"><strong>
-✔ I enjoy playing chess, solving analytical problems,data-driven insights and business analytics.
-</strong>
-</p>
+---
 
+### 🚀 About Me
+
+✔ 📊 I transform **raw, complex datasets** into clear, actionable insights that support smarter business decisions.
+
+✔ 🐍 Experienced in **Python, SQL, R, Power BI, Excel, SPSS, Stata, and Minitab** for data analysis, visualization, automation, and statistical modeling.
+
+✔ 📈 I build **interactive dashboards, automated reports, predictive models, and business intelligence solutions** that deliver measurable impact.
+
+✔ 🧹 Skilled in **data cleaning, data transformation, exploratory data analysis (EDA), and feature engineering** to ensure accurate and reliable results.
+
+✔ 🤖 Passionate about **Machine Learning, Predictive Analytics, Data Engineering, and AI-driven analytics** for solving real-world business problems.
+
+✔ 💼 Committed to writing **clean, efficient, and scalable code**, with a focus on delivering high-quality solutions on time.
+
+✔ 🌍 Always learning new technologies and best practices to help businesses unlock the full potential of their data.
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
