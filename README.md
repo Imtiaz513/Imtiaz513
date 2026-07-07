@@ -8,8 +8,7 @@
 
 ### 📊 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃 | 📈 🆂🆃🅰🆃🅸🆂🆃🅸🅲🅸🅰🅽 | ⚙️ 🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁 | 🐍 🅿🆈🆃🅷🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Statistics+%7C+Data+Visualization;Always+Learning+and+Building..." />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&pause=1200&color=FF0000&center=true&vCenter=true&width=1100&lines=👋+Hi%2C+I'm+Imtiaz+Hussain;Medical+Data+Analyst+%7C+Biostatistician;Python+%7C+SQL+%7C+Power+BI+%7C+R;SPSS+%7C+Stata+%7C+Minitab;Clinical+Research+%7C+Statistical+Modeling;Machine+Learning+%7C+Healthcare+Analytics;Turning+Data+Into+Evidence-Based+Decisions" />
 <p>
 <img src="https://komarev.com/ghpvc/?username=Imtiaz513&style=for-the-badge&color=red"/>
 <img src="https://img.shields.io/github/followers/Imtiaz513?style=for-the-badge&color=black"/>
