@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Imtiaz Hussain
+# 👋 🅷🅸, 🅸'🅼 🅸🅼🆃🅸🅰🆉 🅷🆄🆂🆂🅰🅸🅽
 
-### 📊 Data Analyst | 📈 Statistician | ⚙️ Data Engineer | 🐍 Python Developer
+### 📊 🅳🅰🆃🅰 🅰🅽🅰🅻🆈🆂🆃 | 📈 🆂🆃🅰🆃🅸🆂🆃🅸🅲🅸🅰🅽 | ⚙️ 🅳🅰🆃🅰 🅴🅽🅶🅸🅽🅴🅴🆁 | 🐍 🅿🆈🆃🅷🅾🅽 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Machine+Learning+%7C+Statistics+%7C+Data+Visualization;Always+Learning+and+Building..." />
 
