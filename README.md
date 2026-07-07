@@ -1,3 +1,13 @@
+### 💫 About Me
+
+I am a **Data Analyst**, **Medical Data Analyst**, and **Biostatistician** passionate about transforming complex datasets into meaningful insights that support data-driven decision-making.
+
+- 📊 **Specializing in:** Data Analysis, Statistical Modeling, Business Intelligence, and Healthcare Analytics.
+- 🐍 **Working with:** Python, SQL, Power BI, R, SPSS, Stata, Minitab, and Excel.
+- 📈 **Building:** Interactive dashboards, predictive models, automated reports, and data visualization solutions.
+- 🏥 **Expertise:** Medical Research, Clinical Data Analysis, Biostatistics, and Evidence-Based Analytics.
+- 🤖 **Currently Learning:** Machine Learning, Data Engineering, AI for Healthcare, and Advanced Predictive Analytics.
+
 <div align="center">
 
 # 👋 🅷🅸, 🅸'🅼 🅸🅼🆃🅸🅰🆉 🅷🆄🆂🆂🅰🅸🅽
