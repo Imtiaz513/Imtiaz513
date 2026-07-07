@@ -1,12 +1,4 @@
-### 💫 About Me
 
-I am a **Data Analyst**, **Medical Data Analyst**, and **Biostatistician** passionate about transforming complex datasets into meaningful insights that support data-driven decision-making.
-
-- 📊 **Specializing in:** Data Analysis, Statistical Modeling, Business Intelligence, and Healthcare Analytics.
-- 🐍 **Working with:** Python, SQL, Power BI, R, SPSS, Stata, Minitab, and Excel.
-- 📈 **Building:** Interactive dashboards, predictive models, automated reports, and data visualization solutions.
-- 🏥 **Expertise:** Medical Research, Clinical Data Analysis, Biostatistics, and Evidence-Based Analytics.
-- 🤖 **Currently Learning:** Machine Learning, Data Engineering, AI for Healthcare, and Advanced Predictive Analytics.
 
 <div align="center">
 
@@ -33,15 +25,14 @@ I am a **Data Analyst**, **Medical Data Analyst**, and **Biostatistician** passi
 
 ## 🅰🅱🅾🆄🆃 🅼🅴 💻
 
-✔ 📊 Turning data into meaningful insights.
+I am a **Data Analyst**, **Medical Data Analyst**, and **Biostatistician** passionate about transforming complex datasets into meaningful insights that support data-driven decision-making.
 
-✔ 🐍 Python • SQL • Power BI • Excel • Statistics.
-
-✔ 📈 Building dashboards and data-driven solutions.
-
-✔ 🤖 Exploring AI, Machine Learning, and Data Engineering.
-
-✔ 💼 Helping businesses make smarter decisions with data.
+- 📊 **Specializing in:** Data Analysis, Statistical Modeling, Business Intelligence, and Healthcare Analytics.
+- 🐍 **Working with:** Python, SQL, Power BI, R, SPSS, Stata, Minitab, and Excel.
+- 📈 **Building:** Interactive dashboards, predictive models, automated reports, and data visualization solutions.
+- 🏥 **Expertise:** Medical Research, Clinical Data Analysis, Biostatistics, and Evidence-Based Analytics.
+- 🤖 **Currently Learning:** Machine Learning, Data Engineering, AI for Healthcare, and Advanced Predictive Analytics.
+  
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
