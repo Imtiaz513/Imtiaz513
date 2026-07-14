@@ -284,6 +284,23 @@ I am a **Data Analyst**, **Medical Data Analyst**, and **Biostatistician** passi
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
 
+# 🔥 Contribution Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Tn0127&theme=tokyonight&hide_border=true&border_radius=16"/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+</div>
+
 
 
 
